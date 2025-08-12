@@ -1,0 +1,24 @@
+{
+  "name": "backendcustombegin",
+  "version": "1.0.0",
+  "description": "backend learning",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "learning",
+    "node",
+    "js",
+    "learning",
+    "mongodb",
+    "learning"
+  ],
+  "author": "Zia-Ur-Rehman",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
